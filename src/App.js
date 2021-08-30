@@ -99,9 +99,8 @@ export default function App() {
             textAlign: "start"
           }}
         >
-          Here I have qouted some of the best books available in market to build
-          start-up, Personal growth and to maintain Finance which is very much
-          necessory to live a peacefull life. Hope you will read by looking at
+          Here I have qouted some of the best books available in market about
+          start-up, Personal growth and to maintain Finance which is very important. Hope you will read by looking at
           the ratings
         </h2>
         <section>
