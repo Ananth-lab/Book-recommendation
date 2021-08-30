@@ -1,0 +1,21 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .button-main {
+    padding: 1 rem;
+    width: 5rem;
+    height: 2rem;
+    margin: 2rem;
+    color: white;
+    background-color: rgba(46, 0, 252, 0.808);
+  }
+  .container-area {
+    width: 60%;
+    padding: 1% 15%;
+    border: black solid;
+    text-align: center;
+    margin: 2rem auto;
+    background-color: rgb(214, 209, 209);
+  }
+  
